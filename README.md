@@ -1,3 +1,3 @@
 # f2wbgutierrez
-Samuel Gutierrez
+##Samuel Gutierrez
 I am part of the BMB, go Bearcats!
