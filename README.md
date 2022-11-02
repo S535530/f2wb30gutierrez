@@ -7,6 +7,6 @@ Hosted at [Render](https://dashboard.render.com/web/srv-cdcut6ha6gdhcunefrvg/dep
 Class Details
 <br>
 Jam
-price - number
-flavor - string
-size - number
+price - number,
+flavor - string,
+size - number,
