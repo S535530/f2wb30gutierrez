@@ -2,4 +2,8 @@ extends layout
 
 block content
   h1= title
-  
+  - var image=["jam1.jpg","jam2.jpg","jam3.jpg","jam4.jpg","jam5.jpg"]
+  - for(let i=0;i<3;i++){
+      - let ind=Math.floor(Math.random()*5);
+      img(src=`images/${image[ind]}` alt=`we have house ${ind}` height="300px" width="300px")
+  - }
